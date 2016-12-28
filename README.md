@@ -1,2 +1,86 @@
-# Embedded-System-and-Robotics
-Embedded System and Robotics Projects
+# Embedded System and Robotics Projects
+
+This repository contains Embedded System and Robotics projects programmed in **C** using **AVR studio** IDE and **Proteus** simulation.
+
+The projects are based on following hardware components:
+- Micro-Controller: **ATMEGA 16**
+- LED Matrix, RGB LED
+- 16 x 2 LCD
+- DC Motor
+- Stepper Motor
+- Dual IR Sensor
+- Temperature Sensor
+- 4 x 4 Keypad Matrix 
+- Monotone Speaker
+- LDR Sensor
+- DTMF
+- Touch Screen
+- USB to Serial Converter
+
+# Projects:
+- Glowing LEDs in a pattern
+- Displaying Digits on Seven Segment Displays
+- Generating Patterns on LED Matrix
+- Display Alphabets on LED Matrix
+- Displaying Text on LCD
+- Scrolling Text on LCD
+- Creating Simple Animation on LCD
+- **Digital Clock**
+- Learning Interfacing of Motor with LEDs & LCD
+- Controlling Direction of Rotation of a Motor
+- Rotation in forward and backward direction
+- Controlling speed of stepper motor
+- Rotating stepper motor at given angle/distance
+- Detecting White and Black surface with Digital IR Sensors
+- Controlling Motor with Digital IR Sensor
+- Calculating Speed of a moving robot
+- Measuring Distance of an object using Analog IR Sensors
+- Controlling Motor using Analog IR Sensor
+- **Line Follower Robot**
+- **Wall Follower Robot**
+- **Tachometer Prototype**
+- **Visitor Counting Application**
+- Generating Beep through Buzzer
+- Calibrating Sensor value with Temperature Range
+- **Digital Thermometer**
+- **Temperature Controlled Fan**
+- **High Temperature Alarm**
+- ON\OFF LED\Motor\Buzzer using single key
+- Controlling Motor (ON\OFF, Direction of Rotation) using Linear Keypad
+- Writing text on LCD using Linear Keypad
+- **Stop Watch**
+- **Keypad Operated Robot**
+- **Mobile Phone Keypad prototype**
+- **Password Controlled Application – ATM Prototype**
+- **Calculator**
+- Controlling brightness of a LED
+- Generating different frequencies from Speaker
+- Integrating Keypad with Speaker
+- Integrating IR Sensor with Speaker
+- Digital PIANO
+- Generating different colours from RGB LED
+- Integrating Keypad with RGB LED
+- Traffic light prototype using single LED
+- Colour detection using LDR sensor in Analog Mode
+- **Colour Changing Spy Bot using LDR & RGB LED**
+- **Mobile Controlled Robot**
+- ON\OFF Bulb or Fan (100 W) from Microcontroller
+- **Controlling AC Appliances using Keypad**
+- **Mobile Controlled AC Devices**
+- Displaying values of Touch Screen points on LCD
+- Controlling Motors\LEDs using Touch Screen
+- **Touch Screen Controlled Robot**
+- Testing RF Module using LEDs
+- **Remote Controlled Wireless Robot**
+- Writing on LCD using PC/Laptop keyboard
+- **PC Controlled Robot**
+- **PC Controlled Classroom via RF Module**
+- Displaying values of coordinates in LCD
+- **Wrist control robot**
+- **Wireless Chat Application between two Users**
+- Displaying External interrupt on LCD/LED
+- Displaying Internal interrupt on LCD/LED
+- **Digital Clock application using Interrupts**
+- Save and load data on internal EEPROM
+- **EEPROM based Password controlled Application**
+- **Daily Alarm Clock**

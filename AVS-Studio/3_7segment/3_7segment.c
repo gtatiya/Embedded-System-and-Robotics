@@ -1,0 +1,30 @@
+#include<avr/io.h>
+#include<util/delay.h>
+int main()
+{
+DDRD=0xff;
+while(1)
+{
+PORTD=0b00111111;
+_delay_ms(500);
+PORTD=0b00000110;
+_delay_ms(500);
+PORTD=0b01011011;
+_delay_ms(500);
+PORTD=0b01001111;
+_delay_ms(500);
+PORTD=0b01100110;
+_delay_ms(500);
+PORTD=0b01101101;
+_delay_ms(500);
+PORTD=0b11111101;
+_delay_ms(500);
+PORTD=0b00000111;
+_delay_ms(500);
+PORTD=0b11111111;
+_delay_ms(500);
+PORTD=0b11101111;
+_delay_ms(500);
+}
+return 0;
+}
